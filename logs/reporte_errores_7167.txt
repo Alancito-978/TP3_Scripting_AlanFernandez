@@ -1,0 +1,10 @@
+REPORTE DE ERRORES DEL SISTEMA
+Legajo: 7167
+Archivo analizado: recursos/syslog_prueba.txt
+==============================================================
+Fecha   Hora     Proceso            Mensaje                                           
+------------------------------------------------------------------------------------------
+Oct 15  18:30:01 kernel             ERROR dispositivo de red no disponible            
+Oct 15  18:31:02 sshd               Failed password for user admin from 192.168.1.50  
+Oct 15  18:32:03 systemd            CRITICAL error al iniciar el servicio de prueba   
+Oct 15  18:34:05 NetworkManager     connection failed due to timeout                  

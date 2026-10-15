@@ -1,0 +1,6 @@
+Oct 15 18:30:01 alancito kernel[123]: ERROR dispositivo de red no disponible
+Oct 15 18:31:02 alancito sshd[456]: Failed password for user admin from 192.168.1.50
+Oct 15 18:32:03 alancito systemd[1]: CRITICAL error al iniciar el servicio de prueba
+Oct 15 18:33:04 alancito cron[789]: INFO tarea programada ejecutada correctamente
+Oct 15 18:34:05 alancito NetworkManager[321]: connection failed due to timeout
+Oct 15 18:35:06 alancito app[555]: Operación completada sin inconvenientes
