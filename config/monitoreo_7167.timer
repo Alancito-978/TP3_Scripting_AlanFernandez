@@ -1,0 +1,10 @@
+[Unit]
+Description=Temporizador de monitoreo de red - Legajo 7167
+
+[Timer]
+OnBootSec=1min
+OnUnitActiveSec=5min
+Unit=monitoreo_7167.service
+
+[Install]
+WantedBy=timers.target

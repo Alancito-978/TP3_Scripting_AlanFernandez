@@ -1,0 +1,8 @@
+[Unit]
+Description=Diagnostico de conectividad de red - Legajo 7167
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+ExecStart=/home/alancito/Documentos/tp3-fernandez-7167/codigo/diagnostico_red.sh
